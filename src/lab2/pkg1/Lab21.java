@@ -15,6 +15,12 @@ public class Lab21 {
         String score = sc.next();
         return score;
     }
+    
+        public static double inputdouble() {
+        Scanner sc = new Scanner(System.in);
+        double score = sc.nextDouble();
+        return score;
+    }
 
     public static void main(String[] args) {
 
@@ -25,7 +31,7 @@ public class Lab21 {
         System.out.print("Enter Age:");
         int age = inputInt();
         System.out.print("Enter GPA:");
-        int gpa = inputInt();
+        double gpa = inputdouble();
 
         System.out.println("Student ID:" + id);
         System.out.println("Name:" + name);
