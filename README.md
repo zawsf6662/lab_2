@@ -40,7 +40,7 @@ Enter GPA: 3.50
 ###  ตัวอย่างการทำงาน (Example Output)
 ```
 GPA: 75
-Grade:  B
+Grade: B
 ```
 ### ✖️ Lab 2.3: Multiplication Table
 โปรแกรมแสดงสูตรคูณแม่ 2 ตั้งแต่ $2 \times 1$ ไปจนถึง $2 \times 12$ โดยการประยุกต์ใช้คำสั่งวนซ้ำ (for loop)
